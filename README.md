@@ -4,3 +4,4 @@ bu dastur yordamida telegram bot haqida asosiy tushunchalarni olish mumkin
 ushbu telegram bot yordamida krill-lotin, lotin-krill qilib sozlarni ozgartirish mumkin
 dastur java dasturlash tilida yozilgan
 t.me/nahotk1
+hammasi yaxwi
